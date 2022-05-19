@@ -1,12 +1,12 @@
+
 <h1 align="center">Hi 👋, I'm Akshat Kushwah</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshat-kush007&label=Profile%20views&color=0e75b6&style=flat" alt="akshat-kush007" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshat-kush007" alt="akshat-kush007" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@akshatkush7" target="blank"><img src="https://img.shields.io/twitter/follow/@akshatkush7?logo=twitter&style=for-the-badge" alt="@akshatkush7" /></a> </p>
-
+<img align="right" alt="Coding" width="200" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshat-kush007&" alt="akshat-kush007" /></p>
 - 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Akshat-kush007](https://github.com/Akshat-kush007)
@@ -17,9 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@akshatkush7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@akshatkush7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/akshat-kush/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akshat-kush/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/akshatkush/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/akshatkush/" height="30" width="40" /></a>
+<a href="https://twitter.com/@AkshatKush7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@akshatkush7" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/akshat-kush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/akshat-kush" height="30" width="40" /></a>
+<a href="https://leetcode.com/AkshatKush/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/akshatkush/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,4 +27,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshat-kush007&show_icons=true&locale=en&layout=compact" alt="akshat-kush007" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshat-kush007&" alt="akshat-kush007" /></p>
+
