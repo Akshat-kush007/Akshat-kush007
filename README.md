@@ -5,8 +5,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshat-kush007&label=Profile%20views&color=0e75b6&style=flat" alt="akshat-kush007" /> </p>
 
 
-<img align="right" alt="Coding" width="200" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshat-kush007&" alt="akshat-kush007" /></p>
+
+
+<a href="https://github.com/Akshat-kush007/github-readme-activity-graph#gh-dark-mode-only">
+ <img src="https://activity-graph.herokuapp.com/graph?username=Akshat-kush007&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+</a>
+</p>
+
+
 - 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Akshat-kush007](https://github.com/Akshat-kush007)
