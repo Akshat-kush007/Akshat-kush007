@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Akshat Kushwah</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshat-kush007&label=Profile%20views&color=0e75b6&style=flat" alt="akshat-kush007" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=akshat-kush007&label=Profile%20views&color=0e75b6&style=flat" alt="akshat-kush007" /> </p>
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshat-kush007&" alt="akshat-kush007" /></p>
+<p align="center"><<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshat-kush007&" alt="akshat-kush007" /></p>
 
 
 <a href="https://github.com/Akshat-kush007/github-readme-activity-graph#gh-dark-mode-only">
@@ -15,7 +15,7 @@
 </p>
 
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter** && **DSA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Akshat-kush007](https://github.com/Akshat-kush007)
 
