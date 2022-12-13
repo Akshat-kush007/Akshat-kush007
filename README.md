@@ -15,11 +15,11 @@
 </p>
 
 
-- 🌱 I’m currently learning **Flutter** && **DSA**
+- 🌱 I’m currently learning **Flutter** & **DSA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Akshat-kush007](https://github.com/Akshat-kush007)
 
-- 💬 Ask me about **Flutter,Dart, C.P.**
+- 💬 Ask me about **Flutter, Dart, C++.**
 
 - 📫 How to reach me **akshatkush7@gmail.com**
 
