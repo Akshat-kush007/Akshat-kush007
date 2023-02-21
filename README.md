@@ -44,3 +44,9 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshat-kush007&show_icons=true&locale=en&layout=compact" alt="akshat-kush007" /></p>
 
 
+# Flutter Projects
+| [Shop-App](https://github.com/Akshat-kush007/flutter-shop-app) | [Meal-App](https://github.com/Akshat-kush007/Flutter-Meal-App) | [Spending-Detactor](https://github.com/Akshat-kush007/Spending-Detector) |
+| ---- | ---- | ---- |
+| ![Shop-App](https://github.com/Akshat-kush007/Web-D-BackUp/blob/main/Assets/gifs/shop300.gif)| ![Meal-App](https://github.com/Akshat-kush007/Web-D-BackUp/blob/main/Assets/gifs/meal300.gif)| ![Spending-detactor-App](https://github.com/Akshat-kush007/Web-D-BackUp/blob/main/Assets/gifs/spending300.gif) |
+
+  
